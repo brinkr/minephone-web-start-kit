@@ -1,0 +1,21 @@
+
+<div class="layui-card-header">版本信息</div>
+<div class="layui-card-body layui-text layadmin-about">
+  <script type="text/html" template>
+    <p>当前版本：layuiAdmin-v{{ layui.admin.v }}</p>
+    <p>基于框架：layui-v{{ layui.v }}</p>
+  </script>
+  <div class="layui-btn-container">
+    <a href="http://www.layui.com/admin/" target="_blank" class="layui-btn layui-btn-danger">获取授权</a>
+    <a href="http://fly.layui.com/download/layuiAdmin/" target="_blank" class="layui-btn">下载新版</a>
+  </div>
+</div>
+
+<div class="layui-card-header">关于版权</div>
+<div class="layui-card-body layui-text layadmin-about">
+  
+  <blockquote class="layui-elem-quote" style="border: none;">
+    广州迈峰网络科技有限公司是一家面向企业提供互联网和物联网开发的技术服务商，公司拥有专业的技术技术研发团队和成熟的技术经验。为多家企业提供设备管理、智能监控、网络连接管理、应用开发、数据挖掘、智能分析与第三方系统互联等重要功能。解决企业的物联网业务需求，提供解决行业解决方案，已服务医疗健康、物流快递、智能设备、消费类电子产品等众多行业
+  </blockquote>
+  <p>© 2018 <a href="http://www.layui.com/">layui.com</a> 版权所有</p>
+</div>

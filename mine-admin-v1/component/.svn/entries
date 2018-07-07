@@ -1,0 +1,193 @@
+10
+
+dir
+30037
+svn://112.124.31.118/KgyTeam/ZhongHe/04-develope/QianDuan/mine-admin-v1/component
+svn://112.124.31.118/KgyTeam
+
+
+
+2018-06-25T02:49:48.988616Z
+30037
+yunkuihua
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a54f98a7-ce13-4154-b307-77ae39d12981
+
+laypage
+dir
+
+test.html
+file
+
+
+
+
+2018-06-25T02:49:22.037261Z
+3c6ef34504caab2827fc814336415af4
+2018-06-25T02:49:48.988616Z
+30037
+yunkuihua
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1409
+
+laydate
+dir
+
+说明.txt
+file
+
+
+
+
+2018-06-25T02:49:22.118135Z
+76dd7cd59f804f8d06e72d46a364a971
+2018-06-25T02:49:48.988616Z
+30037
+yunkuihua
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43
+
+upload
+dir
+
+nav
+dir
+
+anim
+dir
+
+grid
+dir
+
+table
+dir
+
+tabs
+dir
+
+panel
+dir
+
+badge
+dir
+
+form
+dir
+
+progress
+dir
+
+laytpl
+dir
+
+timeline
+dir
+
+flow
+dir
+
+temp.html
+file
+
+
+
+
+2018-06-25T02:49:22.015924Z
+f50a9095f7f3a101af46f37aade62885
+2018-06-25T02:49:48.988616Z
+30037
+yunkuihua
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1421
+
+code
+dir
+
+button
+dir
+
+layer
+dir
+
+carousel
+dir
+
+util
+dir
+
+auxiliar
+dir
+
