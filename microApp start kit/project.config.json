@@ -1,0 +1,13 @@
+{
+  "description": "wepy小程序模板",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "",
+  "projectname": "BeeWepy",
+  "miniprogramRoot": "./dist"
+}
